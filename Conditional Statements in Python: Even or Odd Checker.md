@@ -10,9 +10,17 @@ To write a Python program to check whether the given number is **even** or **odd
    - If true, print `"EVEN"`.
    - Else, print `"ODD"`.
 4. End the program.
+5. 
 
 ## 🧾 Program
+a = int(input())
 
+if a % 2 == 0:
+    print("EVEN")
+else:
+    print("ODD")
 ## Output
-
+8
+EVEN
 ## Result
+Thus the phyton program was run sucessfully for the given question.
